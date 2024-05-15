@@ -64,4 +64,3 @@ def isPrime(n):
             if n % i == 0:
                 return "Not prime"
         return True
-
